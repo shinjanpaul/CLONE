@@ -1,0 +1,160 @@
+*{
+    margin: 0%;
+    box-sizing: border-box;
+    font-family: Arial, Helvetica, sans-serif;
+}
+.nav-bar{
+    height: 68px;
+    background-color:rgb(0, 26, 255);
+    display: flex;
+    align-items: center;
+    justify-content: space-evenly;
+
+}
+.nav-logo, .logo{
+    height: 30px;
+}
+.logo{
+    background-image: url("flipkart-plus_8d85f4.png") ;
+    width: 113px;
+    background-size: cover;
+}
+.nav-search{
+    display: flex;
+    width: 620px;
+    height: 38px;
+    background-color: white;
+    justify-content: space-evenly;
+    border: none;
+    
+}
+.search-icon{
+    background-color:white;
+    color: blue;
+    width:40px;
+    height: 38px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    font-size: large;
+}
+.search-bar{
+    width: 610px;
+    border: none;
+}
+.my{
+    color: white;
+    font-size: 17px;
+    font-weight:normal;
+}
+.panel{
+    height: 60px;
+    background-color:white;
+    display: flex;
+    justify-content: space-evenly;
+    align-items: center;
+}
+.p{
+    font-weight:bolder;
+    color: black;
+}
+.hero-section {
+    height: 180px;
+    width: 100%;
+    background-image: url("1176cec8a9974c97.webp");
+    background-size: contain;
+    background-position: -900px center;
+    
+}
+.shop-section1,.shop-section{
+    display:flex;
+    justify-content: space-evenly;
+    justify-content:center;
+    margin-top: 20px;
+    margin-left: 370px;
+}
+
+.box{
+    height: 255px;
+    width: 201px;
+    margin-left: -483px;
+    
+
+}
+.img{;
+    height: 230px;
+    width: 198px;
+    background-size: cover;
+}
+.write{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    margin-top: 6px;
+    font-weight: bold;
+}
+.foot-panel{
+    background-color: #0f110f;
+    height: 305px;
+    margin-top: 20px;
+    color: white;
+    display: flex;
+    justify-content: space-evenly;
+    
+}
+.foot-panel1 ul{
+    display:flex;
+    flex-direction: column;
+    padding-top: 40px;
+    
+}
+.foot-panel1 a{
+    margin-top: 20px;
+}
+.foot-panel2 ul{
+    display:flex;
+    flex-direction: column;
+    padding-top: 40px;
+}
+.foot-panel3 ul{
+    display:flex;
+    flex-direction: column;
+    padding-top: 40px;
+}
+.foot-panel2 a{
+    margin-top: 20px;   
+}
+.foot-panel3 a{
+    margin-top: 20px;
+}
+.foot-panel1 p,.foot-panel2 p,.foot-panel3 p{
+    color:brown;
+}
+.lastbar{
+    background-color:#0f110f;
+    height: 75px;
+    margin-top: 1.5px;
+    display: flex;
+    justify-content: space-evenly;
+    
+    
+}
+.lastbar ul{
+    color: white;
+    margin
+}
+.lastbar6 i{
+    font-size: larger;
+    
+   
+}
+.lastbar0{
+    margin-top: 30px;
+    display: flex;
+    justify-content: space-evenly;
+    
+    
+}
+.lastbar0 ul{
+    margin-left: 60px;
+}
